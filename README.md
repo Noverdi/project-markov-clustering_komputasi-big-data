@@ -15,7 +15,7 @@ Tujuan utama project ini adalah:
 3. Menggabungkan seluruh node ke dalam satu dataset.
 4. Mengekstraksi waktu tempuh antar-node.
 5. Membentuk struktur data graf dengan waktu tempuh sebagai bobot edge.
-6. Clustering data graf menggunakan Markov CLustering untuk melihat wilayah mana yang ter-cluster untuk dijadiwak wilayah pemekaran
+6. Clustering data graf menggunakan Markov CLustering untuk melihat wilayah mana yang ter-cluster untuk dijadikan wilayah pemekaran
 
 ---
 
